@@ -52,3 +52,11 @@ Expand marketing efforts in top-performing regions.
 
 # Conclusion
 The business demonstrates strong revenue performance and operational stability. However, opportunities exist in supplier optimization, defect reduction, and inventory balancing. Leveraging data-driven insights can enhance profitability and long-term growth.
+
+
+# Tools & Technologies Used
+Python
+Pandas
+Matplotlib
+Data Cleaning & KPI Analysis
+Business Intelligence Concepts
